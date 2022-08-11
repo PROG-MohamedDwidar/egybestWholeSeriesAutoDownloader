@@ -1,4 +1,4 @@
-# !!_UNDER DEVELOPMENT_!!  
+# !!-UNDER DEVELOPMENT-!!  
 # !adblocker detectors workaround is needed to be applied!  
 # _egybestWholeSeriesAutoDownloader_  
 downloads your favourite show from egybest without having to download all the episodes yourself  
