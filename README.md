@@ -8,4 +8,4 @@ IMPORTANT:
   after downloading changes in the code need to be made:  
     1-every path to the driver needs to be updated    
     2-replace the browser in the code with the one you downloaded the driver for "it is better to choose chrome"  
-   after doing that you are now ready edit the egybest link to your series in the code and start downloading
+   after doing that you are now ready to edit the egybest link to your series in the code and start downloading
